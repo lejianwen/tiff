@@ -1,6 +1,6 @@
 {
   "name": "ljw-tiff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tiff or tif idf and de",
   "main": "index.js",
   "scripts": {
