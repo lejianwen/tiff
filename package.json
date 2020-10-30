@@ -1,0 +1,25 @@
+{
+  "name": "ljw-tiff",
+  "version": "1.0.0",
+  "description": "tiff or tif idf and de",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lejianwen/tiff.git"
+  },
+  "keywords": [
+    "tiif",
+    "tif",
+    "idf",
+    "de"
+  ],
+  "author": "Lejianwen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lejianwen/tiff/issues"
+  },
+  "homepage": "https://github.com/lejianwen/tiff#readme"
+}
